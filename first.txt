@@ -1,2 +1,4 @@
 test
 aaaa
+git add
+git status
